@@ -1,1 +1,2 @@
-# HTML-B-l-m-sonu-al-mas--2
+# HTML-Bolum-sonu-calimasi-2
+www.patika.dev
